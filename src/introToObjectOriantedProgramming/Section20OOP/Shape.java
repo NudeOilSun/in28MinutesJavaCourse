@@ -1,4 +1,4 @@
-package introToObjectOriantedProgramming.Section20;
+package introToObjectOriantedProgramming.Section20OOP;
 
 abstract class Shape {
     protected String name;

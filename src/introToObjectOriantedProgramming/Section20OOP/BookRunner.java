@@ -1,4 +1,4 @@
-package introToObjectOriantedProgramming.Section20;
+package introToObjectOriantedProgramming.Section20OOP;
 
 public class BookRunner {
     public static void main(String[] args) {

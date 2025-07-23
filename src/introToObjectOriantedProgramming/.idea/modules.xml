@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Section18-19Challenges/Section18-19Challenges.iml" filepath="$PROJECT_DIR$/Section18-19Challenges/Section18-19Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section18-19ChallengesArrays/Section18-19ChallengesArrays.iml" filepath="$PROJECT_DIR$/Section18-19ChallengesArrays/Section18-19ChallengesArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/introToObjectOriantedProgramming.iml" filepath="$PROJECT_DIR$/introToObjectOriantedProgramming.iml" />
     </modules>
   </component>

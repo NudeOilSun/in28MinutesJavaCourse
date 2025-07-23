@@ -1,4 +1,4 @@
-package introToObjectOriantedProgramming.Section20;
+package introToObjectOriantedProgramming.Section20OOP;
 
 public class Employee extends Person{
     private String title;
